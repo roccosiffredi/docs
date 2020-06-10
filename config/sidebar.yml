@@ -1234,15 +1234,18 @@ articles:
           - title: HTTP Event Streams
             url: /logs/streams/http-event
 
-          - title: AWS EventBridge
-            url: /logs/streams/aws-eventbridge
+          - title: Amazon EventBridge Event Streams
+            url: /logs/streams/amazon-eventbridge
 
 
           - title: Datadog Event Streams
             url: /logs/streams/datadog
             
-          - title: Azure Event Grid Streams
+          - title: Azure Event Grid Event Streams
             url: /logs/streams/azure-event-grid
+            
+          - title: Splunk Event Streams
+            url: /logs/streams/splunk
 
       - title: Log Data Retention
         url: /logs/references/log-data-retention
