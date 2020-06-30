@@ -22,7 +22,7 @@ You can add functionality to your web app that allows your users to log in with 
 
 ## Prerequisites
 
-Before connecting your Auth0 app to Twitter, you must be have a [Twitter Developer](https://developer.twitter.com/) account.
+Before connecting your Auth0 app to Twitter, you must have a [Twitter Developer](https://developer.twitter.com/) account.
 
 ## Steps
 
